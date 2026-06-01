@@ -1,3 +1,9 @@
+__pycache__/
+*.log
+.venv/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.log
@@ -217,3 +223,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+
+__pycache__/
+*.log
+.venv/
+
